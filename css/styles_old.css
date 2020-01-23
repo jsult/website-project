@@ -1,0 +1,16 @@
+body {
+  background-color: #ea9085;
+}
+
+h1 {
+  text-align: center;
+  color: #D45D79;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
