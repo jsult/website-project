@@ -62,6 +62,10 @@ hr {
   margin: 5px;
 }
 
+.click {
+  color: #3F72AF;
+}
+
 .cats{
   width: 45%;
   margin-bottom: 60px;
