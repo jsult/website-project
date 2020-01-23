@@ -1,0 +1,109 @@
+body {
+  margin: 0px;
+  background-color: #F9F7F7;
+  color: #112D4E;
+  font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 8px;
+  border-color: #DBE2EF;
+  width: 6%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.info{
+  background-color: #112D4E;
+  width: 100%;
+  height: 75px;
+  position: fixed;
+  font-size: 150%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.link0 {
+  color: #F9F7F7;
+  margin-right: 30px;
+}
+
+.link1 {
+  color: #3F72AF;
+  margin-right: 30px;
+}
+
+.sea {
+  padding-top: 75px;
+  width: 100%;
+  max-height: 190px;
+  margin-bottom: 50px;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  font-size: 150%;
+  width: 60%;
+  text-align: justify;
+}
+
+.hi {
+  margin: 5px;
+}
+
+.cats{
+  width: 45%;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.about {
+  padding-top: 75px;
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.student {
+  padding: 75px;
+  width: 40%;
+  font-size: 120%;
+}
+
+.girl {
+  width: 80%;
+}
+
+.city {
+  width: 110%;
+}
+
+.contact {
+  padding-top: 75px;
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.mail {
+  padding-bottom: 50px;
+  width: 40%;
+}
+
+.mail-img {
+  width: 90%;
+}
